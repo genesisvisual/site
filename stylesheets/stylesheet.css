@@ -469,6 +469,7 @@ h1.title {
 p.tagline {
   padding: 20px 20px 0;
   color: #fff;
+  background: #ddd url(../images/logo.png);
   font-size: 17px;
 }
 
