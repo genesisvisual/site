@@ -467,10 +467,13 @@ h1.title {
 }
 
 p.tagline {
-  padding: 20px 20px 0;
-  color: #fff;
-  background: #ddd url(../images/logo.png);
-  font-size: 17px;
+    /* padding: 20px 20px 0; */
+    color: #fff;
+    background: url(../images/logo.png);
+    font-size: 17px;
+    height: 150px;
+    /* width: 800px; */
+    background-size: 100%;
 }
 
 #main {
